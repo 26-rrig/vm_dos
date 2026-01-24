@@ -39,6 +39,9 @@ sudo apt-get install qemu-system-x86
 ## Build and Run
 
 ```bash
+# removes build artifacts, compiles the kernel and creates the ISO & launches QEMU with the ISO
+make all
+
 # Full clean rebuild and boot
 make run
 
