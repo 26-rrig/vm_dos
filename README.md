@@ -1,4 +1,4 @@
-# vm_dos — minimal bootable OS in C
+# vm_dos — Minimal bootable OS in C
 
 A bare-metal x86 operating system kernel written entirely in C and assembly, booting via GRUB Multiboot. Designed as an educational platform for learning OS fundamentals with a working shell, filesystem abstraction, and interrupt handling.
 
